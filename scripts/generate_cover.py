@@ -72,7 +72,7 @@ def generate_image(prompt, output_path=None, size="1024x1366"):
 
     try:
         ctx = ssl.create_default_context()
-        with urllib.request.urlopen(req, timeout=120, context=ctx) as response:
+        with urllib.request.urlopen(req, timeout=350, context=ctx) as response:
             result = json.loads(response.read().decode("utf-8"))
 
         if result.get("data"):
