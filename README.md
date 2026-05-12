@@ -10,13 +10,13 @@
 
 | 封面图 | 内容图 | 步骤分解 |
 |:---:|:---:|:---:|
-| ![封面图](![Uploading 01-封面图.png…]()
-) | ![内容图](![Uploading 02-食材图.png…]()
-) | ![步骤图1](![Uploading 03-步骤图1.png…]()
+| ![封面图](![](https://github.com/YunFan857/wechat-xiaolvshu-banma/blob/main/01-%E5%B0%81%E9%9D%A2%E5%9B%BE.png?raw=true)
+) | ![内容图](!(https://github.com/YunFan857/wechat-xiaolvshu-banma/blob/main/02-%E9%A3%9F%E6%9D%90%E5%9B%BE.png?raw=true)
+) | ![步骤图1](![](https://github.com/YunFan857/wechat-xiaolvshu-banma/blob/main/03-%E6%AD%A5%E9%AA%A4%E5%9B%BE1.png?raw=true)
 ) |
 
 | 步骤分解 | 成品展示 |
 |:---:|:---:|
-| ![步骤图2](![Uploading 04-步骤图2.png…]()
-) | ![成品图](![Uploading 05-成品图.png…]()
+| ![步骤图2](![](https://github.com/YunFan857/wechat-xiaolvshu-banma/blob/main/04-%E6%AD%A5%E9%AA%A4%E5%9B%BE2.png?raw=true)
+) | ![成品图](![](https://github.com/YunFan857/wechat-xiaolvshu-banma/blob/main/05-%E6%88%90%E5%93%81%E5%9B%BE.png?raw=true)
 ) |
