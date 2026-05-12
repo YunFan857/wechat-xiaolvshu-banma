@@ -1,0 +1,8 @@
+*.md
+.DS_Store
+__pycache__/
+*.pyc
+
+# 保留 README.md 和 SKILL.md
+!README.md
+!SKILL.md
